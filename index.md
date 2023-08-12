@@ -5,7 +5,7 @@
 ### Learn About My Projects
 
 #### [Internal Blog Post Project](/bank)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<images/LinkedIn Coverage image 3_6.png>
 Tolulope is the best
 
 ---
