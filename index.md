@@ -14,13 +14,13 @@ For this project, I explored what a good analytics PowerPoint presentation shoul
 
 ---
 #### [iFood Project](https://www.linkedin.com/pulse/inside-scoop-ifood-data-harinadh-jakka%3FtrackingId=4fbgOUCuTU6ABrnrx3U2PQ%253D%253D/?trackingId=4fbgOUCuTU6ABrnrx3U2PQ%3D%3D)
-[<img src="images/Doordash 1.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
+[<img src="images/Doordash 1.png?raw=true"/>]
 Here, I analyzed and discovered some delicious insights into a food delivery platform
 
 
 ---
 #### [Massachusetts Education Project](https://www.linkedin.com/pulse/massachusetts-education-system-visual-journey-using-tableau-jakka%3FtrackingId=i%252BcaCTsOSaKyh8hPvfORGw%253D%253D/?trackingId=i%2BcaCTsOSaKyh8hPvfORGw%3D%3D)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
+[<img src="images/Tableau Massachusetts.jpg?raw=true"/>]
 In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
 What schools are struggling the most?
 How does class size affect college admission?
