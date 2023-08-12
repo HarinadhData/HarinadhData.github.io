@@ -14,7 +14,7 @@ For this project, I explored what a good analytics PowerPoint presentation shoul
 
 ---
 #### [External Link Project]([https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith](https://www.linkedin.com/pulse/massachusetts-education-system-visual-journey-using-tableau-jakka%3FtrackingId=PB4hZReZQ1mHbWZqnrDWVQ%253D%253D/?trackingId=PB4hZReZQ1mHbWZqnrDWVQ%3D%3D))
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
+[<img src="images/Doordash.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
 My final write up for Avery Smith's 21 Days To Data project covering New York City crime data. 
 
 
