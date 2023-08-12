@@ -13,13 +13,13 @@ Tolulope is the best
 For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
 
 ---
-#### [External Link Project]([https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith](https://www.linkedin.com/pulse/massachusetts-education-system-visual-journey-using-tableau-jakka%3FtrackingId=PB4hZReZQ1mHbWZqnrDWVQ%253D%253D/?trackingId=PB4hZReZQ1mHbWZqnrDWVQ%3D%3D))
+#### [iFood Project](https://www.linkedin.com/pulse/inside-scoop-ifood-data-harinadh-jakka%3FtrackingId=4fbgOUCuTU6ABrnrx3U2PQ%253D%253D/?trackingId=4fbgOUCuTU6ABrnrx3U2PQ%3D%3D)
 [<img src="images/Doordash 1.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-My final write up for Avery Smith's 21 Days To Data project covering New York City crime data. 
+Here, I analyzed and discovered some delicious insights into a food delivery platform
 
 
 ---
-#### [Education Project](https://www.linkedin.com/pulse/massachusetts-education-analysis-samantha-paul/)
+#### [Massachusetts Education Project](https://www.linkedin.com/pulse/massachusetts-education-system-visual-journey-using-tableau-jakka%3FtrackingId=i%252BcaCTsOSaKyh8hPvfORGw%253D%253D/?trackingId=i%2BcaCTsOSaKyh8hPvfORGw%3D%3D)
 [<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
 In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
 What schools are struggling the most?
