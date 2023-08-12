@@ -1,7 +1,8 @@
 title: Harinadh Jakka # your name (or website title) here
-logo: "images/My LinkedIn DP.png" # your photo (or logo) here
+logo: "/images/My LinkedIn DP.png" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
 I enjoy telling stories with data <br>br>
+
   I love reading books <br><br>
   <a href="https://www.linkedin.com/in/jakkaharinadh/">View My LinkedIn Profile</a> 
   
