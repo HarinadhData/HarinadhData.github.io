@@ -1,14 +1,12 @@
 # Welcome to My Portfolio
-#### Who am I?
-I am a Data Analyst
+
 ---
 
-### Learn About My Projects
-
-#### [Internal Blog Post Project](/bank)
+#### [Who am I?](/bank)
 <images/LinkedIn Coverage image 3_6.png>
 Tolulope is the best
 
+### Learn About My Projects
 ---
 #### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
 <img src="images/21 Days To Data Challenge.png?raw=true"/>
