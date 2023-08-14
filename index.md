@@ -3,7 +3,7 @@
 ---
 
 #### [Who am I?](/bank)
-<img src="(https://drive.google.com/file/d/1x2eDUktvN4ezujgdO4TCEkG3tCCwocJS/view?usp=sharing)?raw=true"/>
+<img src="images/3d.jpg?raw=true"/>
 ---
 ### Learn About My Projects
 
