@@ -27,7 +27,7 @@ What are the top math schools in the state?
 
 ### Category Name 2
 
-- [Diving Into my LinkedIn](https://public.tableau.com/app/profile/harinadh.jakka/viz/DivingintomyLinkedIn/Dashboard1))
+- [Diving Into my LinkedIn](https://public.tableau.com/app/profile/harinadh.jakka/viz/DivingintomyLinkedIn/Dashboard1)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
