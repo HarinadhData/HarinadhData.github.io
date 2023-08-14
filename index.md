@@ -4,6 +4,7 @@
 
 #### [Who am I?](/bank)
 <img src="images/3d.jpg?raw=true"/>
+Working on OrthoPhogrammetry in my initial years before my switch to Data Analytics
 ---
 ### Learn About My Projects
 
