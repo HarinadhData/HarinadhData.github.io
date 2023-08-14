@@ -4,12 +4,10 @@
 
 #### [Who am I?](/bank)
 
-
-### Learn About My Projects
 ---
-#### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
-<img src="images/21 Days To Data Challenge.png?raw=true"/>
-For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
+#### Learn About My Projects
+
+
 
 ---
 #### [iFood Project](https://www.linkedin.com/pulse/inside-scoop-ifood-data-harinadh-jakka%3FtrackingId=4fbgOUCuTU6ABrnrx3U2PQ%253D%253D/?trackingId=4fbgOUCuTU6ABrnrx3U2PQ%3D%3D)
