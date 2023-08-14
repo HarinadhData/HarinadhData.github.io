@@ -20,7 +20,7 @@ Here, I analyzed and discovered some delicious insights into a food delivery pla
 
 ---
 #### [Massachusetts Education Project](https://www.linkedin.com/pulse/massachusetts-education-system-visual-journey-using-tableau-jakka%3FtrackingId=i%252BcaCTsOSaKyh8hPvfORGw%253D%253D/?trackingId=i%2BcaCTsOSaKyh8hPvfORGw%3D%3D)
-[<img src="images/Tableau Massachusetts.jpg?raw=true"/>]
+[<img src="images/Massachusetts Education Project .png?raw=true"/>]
 In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
 What schools are struggling the most?
 How does class size affect college admission?
