@@ -3,8 +3,7 @@
 ---
 
 #### [Who am I?](/bank)
-<images/LinkedIn Coverage image 3_6.png>
-Tolulope is the best
+
 
 ### Learn About My Projects
 ---
